@@ -10,6 +10,7 @@ Visualizer: Cava
 Clock on term: tty-clock
 \
 Fetch: Nitch
++ Note: A Windows 8 Startup sound will play when Hyprland Starts (You Can disable it or change the sound via the hyprland.conf file)
 ---
 Keybinds at Bottom
 ---
